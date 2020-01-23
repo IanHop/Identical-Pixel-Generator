@@ -7,3 +7,6 @@
 # Running the Script
 * Type `python color_guess.py [x]` x is the number of pixels in the image.
 * Let her rip.
+
+
+# This is great for warming up your computer or even your house on a cold winters day. Use at your own risk.
