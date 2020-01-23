@@ -5,5 +5,5 @@
 * I have never succesfully genrated the same 2 pixel image. Maybe you are lucky.
 
 # Running the Script
-* type `python color_guess.py [x]` x is the number of pixels in the image.
-* watch her rip
+* Type `python color_guess.py [x]` x is the number of pixels in the image.
+* Let her rip.
